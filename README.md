@@ -1,6 +1,5 @@
 # php-proxy-app-bookmarklet
 Bookmarklet to transfer to "php-proxy-app" with one click.  
-Disclaimer: The author of the program disclaims any and all liability arising from this program.
 
 ## Features
 * JavaScript that runs on the browser.
@@ -8,10 +7,12 @@ Disclaimer: The author of the program disclaims any and all liability arising fr
 * Disconnect with "php-proxy-app" with one click.
 
 ## How to use
-1. Copy the text of "bookmarklet.js" to a text editor.
 1. Copy the text of ["bookmarklet.js"](bookmarklet.js) to a text editor.
 2. Replace the "##" in the text with the URL of the proxy server (the URL must start with "http" or "https" and end with a slash).
 3. Bookmark the edited text in your browser (bookmarks bar is recommended).
+
+## Disclaimer
+The author of the program assumes no responsibility whatsoever for any consequences arising from this program.  
 
 ## Related pages
 [PHP-Proxy website](https://www.php-proxy.com/)  
