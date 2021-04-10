@@ -12,6 +12,6 @@ Bookmarklet to transfer to "php-proxy-app" with one click.
 3. Bookmark the edited text in your browser (bookmarks bar is recommended).
 
 ## Related pages
-[PHP-Proxy website](https://www.php-proxy.com/)
-[PHP-Proxy GitHub page](https://github.com/Athlon1600/php-proxy)
-[php-proxy-app GitHub page](https://github.com/Athlon1600/php-proxy-app)
+[PHP-Proxy website](https://www.php-proxy.com/)  
+[PHP-Proxy GitHub page](https://github.com/Athlon1600/php-proxy)  
+[php-proxy-app GitHub page](https://github.com/Athlon1600/php-proxy-app)  
