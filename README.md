@@ -14,8 +14,8 @@ Bookmarklet to transfer to "php-proxy-app" with one click.
 ## Disclaimer
 The author of the program assumes no responsibility whatsoever for any consequences arising from this program.  
 
-## Copyright information
-"PHP-Proxy" and related programs are copyrighted works of Athlon 1600.
+## Copyright
+"PHP-Proxy" and "php-proxy-app" are copyrighted works of Athlon1600.
 
 ## Related pages
 [PHP-Proxy website](https://www.php-proxy.com/)  
